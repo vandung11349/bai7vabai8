@@ -1,0 +1,30 @@
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+}
+
+.container {
+    width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+label {
+    margin-right: 8px;
+}
+
+input, select, button {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    margin: 8px 4px;
+}
+
+button {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
